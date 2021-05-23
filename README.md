@@ -1,6 +1,6 @@
 # Super Trungfo Cães
 
-jogo de carta feito durante a <strong>Imersão Dev</storng> organizado pela #Alura
+Jogo de carta feito durante a <strong>Imersão Dev</storng> organizado pela #Alura
 
 <strong>Desafio:</strong>
 * Fazer um jogo de cartas estilo Super Trunfo.
